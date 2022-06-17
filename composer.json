@@ -23,7 +23,6 @@
         "codeception/codeception": "^4.1",
         "codeception/verify": "^2.2",
         "codeception/specify": "^2.0",
-        "consolidation/robo": "^3.0",
-        "goaop/parser-reflection": "dev-php8"
+        "consolidation/robo": "^3.0"
     }
 }
